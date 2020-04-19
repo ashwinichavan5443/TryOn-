@@ -1,0 +1,4 @@
+1 install wand
+    steps:
+        $ apt-get install libmagickwand-dev
+        $ pip install Wand
